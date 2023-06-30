@@ -52,5 +52,3 @@ Bên cạnh thu thập thông tin, việc đưa ra kỳ vọng rõ ràng và xú
   - Thông tin sau khi thu thập sẽ được đưa qua 1 hệ thống ra quyết định được xây dựng dựa trên những thang đo về tài chính, vận hành, etc. 
 
 - Chất lượng của quyết định cũng dựa vào hành động được thực hiện sau khi đưa ra quyết định
-
-[Back]({% link index.markdown %})
