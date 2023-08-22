@@ -31,4 +31,4 @@ EEM is a pillar focusing on development through **preparing the plant** for a ne
 
 # Step Overview
 
-![eem-steps-overview](/_site/assets/images/eem-steps-overview.png)
+![eem-steps-overview](/assets/images/eem-steps-overview.png)
