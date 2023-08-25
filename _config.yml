@@ -74,7 +74,7 @@ defaults:
   #     path: ""
   #     type: pages
 
-paginate: 5
+# paginate: 5
 timezone: Asia/Ho_Chi_Minh
 compress_html:
   clippings: all
