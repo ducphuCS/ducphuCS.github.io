@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  What makes a good decision (Part 1)
 date:   2023-06-30
 categories: post

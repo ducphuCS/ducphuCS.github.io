@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  EEM Pillar Overview
 date:   2023-08-22
 categories: post
