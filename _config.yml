@@ -37,7 +37,7 @@ url: https://ducphuCS.github.io # the base hostname & protocol for your site, e.
 # Site author
 author:
   name     : "Nguyen Duc Phu"
-  # avatar   : "/assets/images/bio-photo.jpg"
+  avatar   : "/assets/images/bio-photo.jpg"
   bio      : "My awesome biography constrained to a sentence or two goes here."
   location : "Ho Chi Minh City, Vietnam"
   links:
@@ -72,11 +72,15 @@ defaults:
       comments: false
       share: false
       related: true
+      author_profile: true
   # - scope:
   #     path: ""
   #     type: pages
 
-# paginate: 5
+# Pagination settings
+paginate: 3
+paginate_path: /page:num/
+
 timezone: Asia/Ho_Chi_Minh
 compress_html:
   clippings: all
