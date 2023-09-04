@@ -59,6 +59,9 @@ plugins:
   - jekyll-remote-theme
   - jekyll-paginate
 
+# Include folder here
+include: ["_pages"]
+
 # Posts can be configured to use the single layout — with reading time, comments, social sharing links, 
 # and related posts enabled. Adding the following to _config.yml will set these defaults for all posts:
 defaults:
@@ -74,9 +77,12 @@ defaults:
       share: false
       related: true
       author_profile: true
-  # - scope:
-  #     path: ""
-  #     type: pages
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      author_profile: true
 
 # Pagination settings
 paginate: 3
