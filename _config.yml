@@ -57,6 +57,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme
+  - jekyll-paginate
 
 # Posts can be configured to use the single layout — with reading time, comments, social sharing links, 
 # and related posts enabled. Adding the following to _config.yml will set these defaults for all posts:
