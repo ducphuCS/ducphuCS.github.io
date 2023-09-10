@@ -60,7 +60,7 @@ plugins:
   - jekyll-paginate
 
 # Include folder here
-include: ["_pages"]
+include: ["_pages", "_learnings"]
 
 # Posts can be configured to use the single layout — with reading time, comments, social sharing links, 
 # and related posts enabled. Adding the following to _config.yml will set these defaults for all posts:
@@ -83,6 +83,24 @@ defaults:
       type: pages
     values:
       author_profile: true
+  # learnings
+  - scope:
+      path: ""
+      type: learnings
+    values:
+      layout: single
+      author_profile: false
+      toc: true
+      toc_sticky: true
+      read_time: true
+      show_date: true
+      related: true
+
+# Collection settings
+collections:
+  learnings: 
+    output: true
+    permalink: /:collection/:path/
 
 # Pagination settings
 paginate: 3
