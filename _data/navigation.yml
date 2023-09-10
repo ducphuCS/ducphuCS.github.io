@@ -3,5 +3,7 @@ main:
     url: /year-archive/
   - title: "Categories"
     url: /categories/
+  # - title: "Learnings"
+  #   url: /learnings/
   - title: "About"
     url: /about/
