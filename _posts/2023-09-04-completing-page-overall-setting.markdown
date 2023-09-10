@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Completing page layout
+title: Completing page overall setting
 date:   2023-09-04
 categories: post
 tags: blogs
